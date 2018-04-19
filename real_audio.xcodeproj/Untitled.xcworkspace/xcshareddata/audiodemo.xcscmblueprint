@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7b036d93-c106-4fb4-9076-75f095ec04bf++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "7b036d93-c106-4fb4-9076-75f095ec04bf++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7b036d93-c106-4fb4-9076-75f095ec04bf++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "292BE710-AD4D-4901-B23E-1AFDA1E01A14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7b036d93-c106-4fb4-9076-75f095ec04bf++505" : "trunk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "audiodemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "client\/bin\/iosv1\/packet_ios\/audiodemo\/audiodemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.5.253\/yinlang",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7b036d93-c106-4fb4-9076-75f095ec04bf++505"
+    }
+  ]
+}
