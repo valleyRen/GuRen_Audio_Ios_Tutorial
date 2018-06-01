@@ -10,19 +10,19 @@
 
 **2.导入项目**
 解压工程，可以看到目录结构如下
-![解压项目](/images/2017-11-20/5a127a6ab2508.png "解压项目")
+![解压项目](https://doc.valley.ren/images/2017-11-20/5a127a6ab2508.png "解压项目")
 
 用Xcode打开real_audio.xcodeproj，可以看到目录结构如下
-![](/images/2017-11-20/5a127cc4e56b1.png)
+![](https://doc.valley.ren/images/2017-11-20/5a127cc4e56b1.png)
 
 **4.运行项目**
 如果没有错误，可以看到登陆界面
-![](/images/2017-11-20/5a1280ae84e88.jpg)
+![](https://doc.valley.ren/images/2017-11-20/5a1280ae84e88.jpg)
 
 输入用户名和房间号，点击登陆即可。用户名任意，但不能是中文，且长度不能超过128字节。房间号在测试环境下只能输入1-50号房间，正式环境无限制。一个房间不能有两个同名ID。否则会踢掉之前登陆的用户。
 
 如果登陆成功，会看到用户列表界面
-![](/images/2017-11-20/5a12818740025.jpg)
+![](https://doc.valley.ren/images/2017-11-20/5a12818740025.jpg)
 
 上面显示房间里的所有用户，底部有两个按钮，可以控制说话和播放。点击左上角登陆界面按钮退出房间。
 
@@ -56,11 +56,11 @@ SDK提供了C++ 和Objective-C两种语言接口，其中以OC为后缀的是OC�
 
 **4.权限管理**
 需要添加麦克风权限，打开info.plist文件，添加Privacy - Microphone Usage Description 条目，描述里写“请求麦克风权限”或者自定义。
-![](/images/2017-11-20/5a127e8b714d6.png)
+![](https://doc.valley.ren/images/2017-11-20/5a127e8b714d6.png)
 
 **5.后台运行**
 如果需要APP切换到后台依然可以说话和播放，则做如下设置
-![](/images/2017-11-20/5a127e9e23046.png)
+![](https://doc.valley.ren/images/2017-11-20/5a127e9e23046.png)
 
 ### 功能实现文档
 **1.初始化SDK环境**
